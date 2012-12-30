@@ -22,7 +22,9 @@ public class MainActivity extends ListActivity
         list.add("Hello");
         list.add("Watcha doin ?");
         list.add("Aww nothing much. Just typing this really long message to show you how a 9 patch image can stretch.");
-        list.add("Cool");
+        list.add("Cool. Where can I get the source ?");
+        list.add("At https://github.com/deepak-bala/SpeechBubble");
+        list.add("Awesome");
     }
 
     @Override
